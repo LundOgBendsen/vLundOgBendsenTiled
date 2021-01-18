@@ -1,0 +1,15 @@
+*.log
+maps/*scratch.tmx
+maps/challanges
+*/*/*scratch.tmx
+*.xcf
+*scratch.png
+*scratch.tmx
+maps/scratch fg.png
+assets/decoration/holiday/.DS_Store
+.DS_Store
+reacts/references
+tilesets/scratch.aseprite
+tilesets/scratchtileset 1.x.tsx
+tilesets/scratchtileset.aseprite
+tilesets/scratchtileset.png

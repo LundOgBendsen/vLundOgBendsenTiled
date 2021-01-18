@@ -1,0 +1,101 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "headquarters.tmx",
+    "expandedProjectPaths": [
+        "maps",
+        "filesets"
+    ],
+    "exportAsImage.useCurrentScale": false,
+    "exportAsImage.visibleLayersOnly": true,
+    "fileStates": {
+        "filesets/gather_chairs_1.3.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 2
+        },
+        "filesets/gather_decoration_1.16.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 2
+        },
+        "filesets/gather_floors_1.2.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "filesets/gather_plants_1.2.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1.5
+        },
+        "filesets/gather_swatches_1.0.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "filesets/gather_tables_1.6.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1.5
+        },
+        "filesets/gather_walls_interior_1.5-logb.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        },
+        "filesets/gather_walls_interior_1.5.tsx": {
+            "scaleInDock": 2,
+            "scaleInEditor": 1.5
+        },
+        "filesets/logb-various-tiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "headquarters.tmx": {
+            "scale": 1,
+            "selectedLayer": 14,
+            "viewCenter": {
+                "x": 781,
+                "y": 961
+            }
+        },
+        "images/mountain-view.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "images/panoramic-mountain-winter.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 0.125
+        },
+        "images/winter-landscape.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 3
+        }
+    },
+    "map.height": 30,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.width": 50,
+    "openFiles": [
+        "headquarters.tmx",
+        "filesets/gather_floors_1.2.tsx",
+        "filesets/logb-various-tiles.tsx",
+        "filesets/gather_plants_1.2.tsx",
+        "filesets/gather_decoration_1.16.tsx",
+        "filesets/gather_chairs_1.3.tsx",
+        "filesets/gather_tables_1.6.tsx",
+        "filesets/gather_walls_interior_1.5-logb.tsx"
+    ],
+    "project": "lundogbendsen.tiled-project",
+    "recentFiles": [
+        "headquarters.tmx",
+        "images/panoramic-mountain-winter.tsx",
+        "images/mountain-view.tsx",
+        "images/winter-landscape.tsx",
+        "filesets/gather_walls_interior_1.5.tsx",
+        "filesets/gather_walls_interior_1.5-logb.tsx",
+        "filesets/gather_tables_1.6.tsx",
+        "filesets/gather_chairs_1.3.tsx",
+        "filesets/gather_decoration_1.16.tsx",
+        "filesets/gather_plants_1.2.tsx",
+        "filesets/logb-various-tiles.tsx",
+        "filesets/gather_floors_1.2.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx"
+}
