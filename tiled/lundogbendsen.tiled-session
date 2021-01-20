@@ -5,12 +5,15 @@
     },
     "activeFile": "headquarters.tmx",
     "expandedProjectPaths": [
-        "maps",
-        "filesets"
+        "filesets",
+        "maps"
     ],
     "exportAsImage.useCurrentScale": false,
     "exportAsImage.visibleLayersOnly": true,
     "fileStates": {
+        "filesets/alt.tsx": {
+            "scaleInDock": 1
+        },
         "filesets/gather_chairs_1.3.tsx": {
             "scaleInDock": 2,
             "scaleInEditor": 2
@@ -48,11 +51,11 @@
             "scaleInEditor": 1
         },
         "headquarters.tmx": {
-            "scale": 1,
-            "selectedLayer": 14,
+            "scale": 0.75,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 781,
-                "y": 961
+                "x": 790.6666666666666,
+                "y": 748.6666666666666
             }
         },
         "images/mountain-view.tsx": {
@@ -84,18 +87,18 @@
     ],
     "project": "lundogbendsen.tiled-project",
     "recentFiles": [
-        "headquarters.tmx",
-        "images/panoramic-mountain-winter.tsx",
-        "images/mountain-view.tsx",
-        "images/winter-landscape.tsx",
-        "filesets/gather_walls_interior_1.5.tsx",
         "filesets/gather_walls_interior_1.5-logb.tsx",
         "filesets/gather_tables_1.6.tsx",
         "filesets/gather_chairs_1.3.tsx",
         "filesets/gather_decoration_1.16.tsx",
         "filesets/gather_plants_1.2.tsx",
         "filesets/logb-various-tiles.tsx",
-        "filesets/gather_floors_1.2.tsx"
+        "filesets/gather_floors_1.2.tsx",
+        "headquarters.tmx",
+        "images/panoramic-mountain-winter.tsx",
+        "images/mountain-view.tsx",
+        "images/winter-landscape.tsx",
+        "filesets/gather_walls_interior_1.5.tsx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }
