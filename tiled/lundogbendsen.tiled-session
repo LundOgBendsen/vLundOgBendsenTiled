@@ -10,12 +10,13 @@
     ],
     "exportAsImage.useCurrentScale": false,
     "exportAsImage.visibleLayersOnly": true,
+    "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "filesets/alt.tsx": {
             "scaleInDock": 1
         },
         "filesets/gather_chairs_1.3.tsx": {
-            "scaleInDock": 2,
+            "scaleInDock": 1.5,
             "scaleInEditor": 2
         },
         "filesets/gather_decoration_1.16.tsx": {
@@ -23,7 +24,7 @@
             "scaleInEditor": 2
         },
         "filesets/gather_floors_1.2.tsx": {
-            "scaleInDock": 1,
+            "scaleInDock": 1.5,
             "scaleInEditor": 2
         },
         "filesets/gather_plants_1.2.tsx": {
@@ -47,15 +48,15 @@
             "scaleInEditor": 1.5
         },
         "filesets/logb-various-tiles.tsx": {
-            "scaleInDock": 1,
+            "scaleInDock": 2,
             "scaleInEditor": 1
         },
         "headquarters.tmx": {
-            "scale": 1.5,
+            "scale": 0.5,
             "selectedLayer": 0,
             "viewCenter": {
-                "x": 453.33333333333337,
-                "y": 558
+                "x": 439,
+                "y": 1270
             }
         },
         "images/mountain-view.tsx": {
@@ -70,31 +71,82 @@
             "scaleInDock": 1,
             "scaleInEditor": 3
         },
-        "maps/course.tmx": {
-            "scale": 0.5,
-            "selectedLayer": 1,
+        "maps/course-room-access-hallway.tmx": {
+            "scale": 1,
+            "selectedLayer": 5,
             "viewCenter": {
-                "x": 144,
-                "y": 700
+                "x": 480.5,
+                "y": 689
             }
+        },
+        "maps/course.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 799.3333333333333,
+                "y": 576.6666666666666
+            }
+        },
+        "maps/filesets/alt.tsx": {
+            "scaleInDock": 1
+        },
+        "maps/filesets/gather_chairs_1.3.tsx": {
+            "scaleInDock": 1
+        },
+        "maps/filesets/gather_decoration_1.16.tsx": {
+            "scaleInDock": 1
+        },
+        "maps/filesets/gather_floors_1.2.tsx": {
+            "scaleInDock": 1
+        },
+        "maps/filesets/gather_plants_1.2.tsx": {
+            "scaleInDock": 1
+        },
+        "maps/filesets/gather_tables_1.6.tsx": {
+            "scaleInDock": 1
+        },
+        "maps/filesets/gather_walls_interior_1.5-logb.tsx": {
+            "scaleInDock": 1
+        },
+        "maps/filesets/gather_walls_interior_1.5.tsx": {
+            "scaleInDock": 1
+        },
+        "maps/filesets/logb-various-tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "maps/headquarters.tmx": {
+            "scale": 3,
+            "selectedLayer": 26,
+            "viewCenter": {
+                "x": 237.5,
+                "y": 1096.3333333333333
+            }
+        },
+        "maps/images/mountain-view.tsx": {
+            "scaleInDock": 1
+        },
+        "maps/images/panoramic-mountain-winter.tsx": {
+            "scaleInDock": 1
+        },
+        "maps/images/winter-landscape.tsx": {
+            "scaleInDock": 1
         }
     },
-    "map.height": 36,
+    "map.height": 50,
     "map.lastUsedFormat": "tmx",
     "map.layerDataFormat": null,
-    "map.width": 50,
+    "map.width": 25,
     "openFiles": [
-        "headquarters.tmx",
-        "filesets/gather_floors_1.2.tsx",
-        "filesets/logb-various-tiles.tsx",
-        "filesets/gather_plants_1.2.tsx",
-        "filesets/gather_decoration_1.16.tsx",
-        "filesets/gather_chairs_1.3.tsx",
-        "filesets/gather_tables_1.6.tsx",
-        "filesets/gather_walls_interior_1.5-logb.tsx"
+        "maps/course.tmx",
+        "maps/course-room-access-hallway.tmx",
+        "headquarters.tmx"
     ],
     "project": "lundogbendsen.tiled-project",
     "recentFiles": [
+        "maps/headquarters.tmx",
+        "maps/course.tmx",
+        "maps/course-room-access-hallway.tmx",
+        "headquarters.tmx",
         "filesets/gather_floors_1.2.tsx",
         "filesets/logb-various-tiles.tsx",
         "filesets/gather_plants_1.2.tsx",
@@ -102,11 +154,7 @@
         "filesets/gather_chairs_1.3.tsx",
         "filesets/gather_tables_1.6.tsx",
         "filesets/gather_walls_interior_1.5-logb.tsx",
-        "headquarters.tmx",
-        "images/panoramic-mountain-winter.tsx",
-        "images/mountain-view.tsx",
-        "images/winter-landscape.tsx",
-        "filesets/gather_walls_interior_1.5.tsx"
+        "images/panoramic-mountain-winter.tsx"
     ],
     "tileset.lastUsedFormat": "tsx"
 }
