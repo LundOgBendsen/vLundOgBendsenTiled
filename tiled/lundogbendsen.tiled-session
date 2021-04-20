@@ -3,7 +3,7 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "headquarters.tmx",
+    "activeFile": "maps/course.tmx",
     "expandedProjectPaths": [
         "maps",
         "filesets"
@@ -12,6 +12,24 @@
     "exportAsImage.visibleLayersOnly": true,
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
+        "/home/jesper/workspaces/lundogbendsen/vlundogbendsen/gathertown-resources/mapmaking/tilesets/Gather Chairs 1.x.tsx": {
+            "scaleInDock": 1
+        },
+        "/home/jesper/workspaces/lundogbendsen/vlundogbendsen/gathertown-resources/mapmaking/tilesets/Gather Decoration 1.x.tsx": {
+            "scaleInDock": 1
+        },
+        "/home/jesper/workspaces/lundogbendsen/vlundogbendsen/gathertown-resources/mapmaking/tilesets/Gather Floors 1.x.tsx": {
+            "scaleInDock": 1
+        },
+        "/home/jesper/workspaces/lundogbendsen/vlundogbendsen/gathertown-resources/mapmaking/tilesets/Gather Plants 1.x.tsx": {
+            "scaleInDock": 1
+        },
+        "/home/jesper/workspaces/lundogbendsen/vlundogbendsen/gathertown-resources/mapmaking/tilesets/Gather Tables 1.x.tsx": {
+            "scaleInDock": 1
+        },
+        "/home/jesper/workspaces/lundogbendsen/vlundogbendsen/gathertown-resources/mapmaking/tilesets/Gather Walls Interior 1.x.tsx": {
+            "scaleInDock": 1
+        },
         "filesets/alt.tsx": {
             "scaleInDock": 1
         },
@@ -48,7 +66,7 @@
             "scaleInEditor": 1.5
         },
         "filesets/logb-various-tiles.tsx": {
-            "scaleInDock": 2,
+            "scaleInDock": 1,
             "scaleInEditor": 1
         },
         "headquarters.tmx": {
@@ -72,19 +90,19 @@
             "scaleInEditor": 3
         },
         "maps/course-room-access-hallway.tmx": {
-            "scale": 1,
+            "scale": 2,
             "selectedLayer": 5,
             "viewCenter": {
-                "x": 480.5,
-                "y": 689
+                "x": 400,
+                "y": 800
             }
         },
         "maps/course.tmx": {
-            "scale": 0.75,
+            "scale": 1,
             "selectedLayer": 2,
             "viewCenter": {
-                "x": 799.3333333333333,
-                "y": 576.6666666666666
+                "x": 1475.5,
+                "y": 324
             }
         },
         "maps/filesets/alt.tsx": {
@@ -115,11 +133,11 @@
             "scaleInDock": 1
         },
         "maps/headquarters.tmx": {
-            "scale": 3,
-            "selectedLayer": 26,
+            "scale": 1,
+            "selectedLayer": 19,
             "viewCenter": {
-                "x": 237.5,
-                "y": 1096.3333333333333
+                "x": 784,
+                "y": 536
             }
         },
         "maps/images/mountain-view.tsx": {
@@ -139,13 +157,13 @@
     "openFiles": [
         "maps/course.tmx",
         "maps/course-room-access-hallway.tmx",
-        "headquarters.tmx"
+        "maps/headquarters.tmx"
     ],
     "project": "lundogbendsen.tiled-project",
     "recentFiles": [
         "maps/headquarters.tmx",
-        "maps/course.tmx",
         "maps/course-room-access-hallway.tmx",
+        "maps/course.tmx",
         "headquarters.tmx",
         "filesets/gather_floors_1.2.tsx",
         "filesets/logb-various-tiles.tsx",
